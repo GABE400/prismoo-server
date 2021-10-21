@@ -4,7 +4,8 @@
   "description": "backend for prismoo app",
   "main": "app.js",
   "engines": {
-    "node": "v14.17.5"
+    "node": "v14.17.5",
+    "npm": "7.21.1"
   },
   "scripts": {
     "start": "nodemon app.js",
