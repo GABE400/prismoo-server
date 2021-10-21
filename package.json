@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "backend for prismoo app",
   "main": "app.js",
+  "engines": {
+    "node": "v14.17.5"
+  },
   "scripts": {
     "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
